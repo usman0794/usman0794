@@ -1,10 +1,12 @@
-# Hi 👋, I'm Muhammad Usman Ali
+👨‍💻 MERN Stack Developer | ☁️ Learning Cloud Computing | Building apps with MongoDB, Express, React, Node.js | Exploring AWS, Docker, and DevOps.
 
-A passionate frontend developer from Pakistan.
+# Hi 👋, I'm Muhammad Usman Ali
 
 - 🔭 I’m currently working on the **MERN stack**.  
 - 🌱 I’m learning **DevOps** and **Cloud Computing**.  
+- 💬 Ask me about **JavaScript, React, Node.js, or MongoDB**.  
 - 📫 How to reach me: [usmanjami794@gmail.com](mailto:usmanjami794@gmail.com)  
+- ⚡ Fun fact: I can debug code faster than I can make tea! ☕
 
 ---
 
@@ -32,12 +34,11 @@ A passionate frontend developer from Pakistan.
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/your-repo/main/illustration.png" alt="Illustration" width="400"/>
+  <img src="https://raw.githubusercontent.com/usman0794/your-repo/main/illustration.png" alt="Illustration" width="400"/>
 </p>
