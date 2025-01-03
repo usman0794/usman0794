@@ -13,14 +13,14 @@
 - [LinkedIn](https://www.linkedin.com/in/m-usman-ali-2a1922247)
 
 ## Languages and Tools:
-- JavaScript  
-- React  
-- Node.js  
-- MongoDB  
-- Express  
-- HTML5  
-- CSS3  
-- Bootstrap  
-- Tailwind CSS  
+- ![JavaScript](https://img.icons8.com/color/30/javascript.png) JavaScript  
+- ![React](https://img.icons8.com/color/30/react-native.png) React  
+- ![Node.js](https://img.icons8.com/color/30/nodejs.png) Node.js  
+- ![MongoDB](https://img.icons8.com/color/30/mongodb.png) MongoDB  
+- ![Express](https://img.icons8.com/ios-filled/30/000000/express-js.png) Express  
+- ![HTML5](https://img.icons8.com/color/30/html-5.png) HTML5  
+- ![CSS3](https://img.icons8.com/color/30/css3.png) CSS3  
+- ![Bootstrap](https://img.icons8.com/color/30/bootstrap.png) Bootstrap  
+- ![Tailwind CSS](https://img.icons8.com/color/30/tailwind-css.png) Tailwind CSS  
 
 ![Your Illustration](https://path-to-your-image.com/image.png)
