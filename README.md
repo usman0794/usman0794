@@ -1,16 +1,26 @@
-## Hi there 👋
+👨‍💻 MERN Stack Developer | ☁️ Learning Cloud Computing | Building apps with MongoDB, Express, React, Node.js | Exploring AWS, Docker, and DevOps.
 
-<!--
-**usman0794/usman0794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Muhammad Usman Ali
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the **MERN stack**.  
+- 🌱 I’m learning **DevOps** and **Cloud Computing**.  
+- 💬 Ask me about **JavaScript, React, Node.js, or MongoDB**.  
+- 📫 How to reach me: usmanjami794@gmail.com  
+- ⚡ Fun fact: [Your Fun Fact]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- [GitHub](https://github.com/usman0794)  
+- [LinkedIn](https://www.linkedin.com/in/m-usman-ali-2a1922247)
+
+## Languages and Tools:
+- JavaScript  
+- React  
+- Node.js  
+- MongoDB  
+- Express  
+- HTML5  
+- CSS3  
+- Bootstrap  
+- Tailwind CSS  
+
+![Your Illustration](https://path-to-your-image.com/image.png)
