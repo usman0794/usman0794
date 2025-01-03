@@ -6,7 +6,7 @@
 - 🌱 I’m learning **DevOps** and **Cloud Computing**.  
 - 💬 Ask me about **JavaScript, React, Node.js, or MongoDB**.  
 - 📫 How to reach me: usmanjami794@gmail.com  
-- ⚡ Fun fact: [Your Fun Fact]  
+- ⚡ Fun fact: I can debug code faster than I can make tea! ☕  
 
 ## Connect with me:
 - [GitHub](https://github.com/usman0794)  
@@ -17,10 +17,10 @@
 - ![React](https://img.icons8.com/color/30/react-native.png) React  
 - ![Node.js](https://img.icons8.com/color/30/nodejs.png) Node.js  
 - ![MongoDB](https://img.icons8.com/color/30/mongodb.png) MongoDB  
-- ![Express](https://img.icons8.com/ios-filled/30/000000/express-js.png) Express  
+- ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) Express  
 - ![HTML5](https://img.icons8.com/color/30/html-5.png) HTML5  
 - ![CSS3](https://img.icons8.com/color/30/css3.png) CSS3  
 - ![Bootstrap](https://img.icons8.com/color/30/bootstrap.png) Bootstrap  
-- ![Tailwind CSS](https://img.icons8.com/color/30/tailwind-css.png) Tailwind CSS  
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS  
 
 ![Your Illustration](https://path-to-your-image.com/image.png)
