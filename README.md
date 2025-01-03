@@ -35,6 +35,7 @@
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express" width="40" height="40"/>
 </p>
 
 ---
